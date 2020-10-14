@@ -10,5 +10,6 @@ You can add your favourite curriencies and delete them as well.
 ![Screen Shot 2020-10-14 at 7 59 24 PM](https://user-images.githubusercontent.com/60779542/96015343-87038d80-0e58-11eb-8fc3-28141602baeb.png)
 ![Screen Shot 2020-10-14 at 7 59 05 PM](https://user-images.githubusercontent.com/60779542/96015350-8834ba80-0e58-11eb-8c8f-0f6c03f3e1a4.png)
 ![Screen Shot 2020-10-14 at 8 01 58 PM](https://user-images.githubusercontent.com/60779542/96015353-8965e780-0e58-11eb-9899-831a1ade612d.png)
-![Screen Shot 2020-10-14 at 8 01 40 PM](https://user-images.githubusercontent.com/60779542/96015358-8a971480-0e58-11eb-8d0a-76c24261a8c6.png)
+![Uploading Screen Shot 2020-10-14 at 8.10.20 PM.png…]()
+
 ![Screen Shot 2020-10-14 at 8 00 50 PM](https://user-images.githubusercontent.com/60779542/96015365-8c60d800-0e58-11eb-8705-adb510f90706.png)
